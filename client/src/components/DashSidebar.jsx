@@ -5,7 +5,7 @@ import { useEffect,useState } from 'react'
 
 const DashSidebar = () => {
     const location = useLocation();
-  const [tab, setTab] = useState("");
+  const [tab, setTab] = useState("")
   
   useEffect(() =>{
     const urlParams = new URLSearchParams(location.search)

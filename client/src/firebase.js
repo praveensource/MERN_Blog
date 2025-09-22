@@ -12,7 +12,7 @@ const firebaseConfig = {
   storageBucket: "blogmern-4a6d2.firebasestorage.app",
   messagingSenderId: "141801787936",
   appId: "1:141801787936:web:39000b8f901f17b2aea245"
-  
+
 };
 
 // Initialize Firebase
